@@ -2,6 +2,7 @@
 Awesome List for the Triangle region in North Carolina. Compiles a list of awesome resources for the tech community in the area.
 
 * [Online Communities](#online-communities)
+* [Startup Resources](#startup-resources)
 * [Coworking Spaces](#coworking-spaces)
 * [Job Boards/Recruiting](#job-boards-and-recruiting)
 * [Dev-Friendly Spaces](#dev-friendly-spaces)
@@ -13,11 +14,20 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 
 ## Online Communities
 
+* RIoT [https://ncriot.org/](https://ncriot.org/)
 * Triangle Devs on Slack [http://www.triangledevslack.com/](http://www.triangledevslack.com/)
+
+# Startup Resources
+
+* GrepBeat [https://grepbeat.com/](https://grepbeat.com/)
+* WRAL Techwire Startup Guide [https://startupguide.wraltechwire.com/](https://startupguide.wraltechwire.com/)
 
 ## Coworking Spaces
 
+* Cary Cofounders Lab [http://cofounderscapital.com/free-lab/](http://cofounderscapital.com/free-lab/)
+* HQ Raleigh [https://hq.community/](https://hq.community/)
 * The Frontier RTP - [https://www.rtp.org/about-us/the-frontier/](https://www.rtp.org/about-us/the-frontier/)
+* Vibe Cary [https://www.vibecary.com/](https://www.vibecary.com/)
 
 ## Job Boards and Recruiting
 
@@ -33,10 +43,14 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 
 ## Code Academies
 
+* Tech Talent South [https://www.techtalentsouth.com/locations/raleigh](https://www.techtalentsouth.com/locations/raleigh)
+
 ## Dev Shops
 
 ## Meetups
 
+* RIoT Meetup [https://www.meetup.com/NC-RIoT-Regional-Internet-of-Things/](https://www.meetup.com/NC-RIoT-Regional-Internet-of-Things/)
 * Triangle Elixir [https://www.meetup.com/Triangle-Elixir/](https://www.meetup.com/Triangle-Elixir/)
+* Triangle Python Users Group [https://www.meetup.com/tripython/](https://www.meetup.com/tripython/)
 
 ## Homegrown Open-Source Software
