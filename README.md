@@ -18,7 +18,7 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * Triangle Devs on Slack [http://www.triangledevslack.com/](http://www.triangledevslack.com/)
 
 # Startup Resources
-
+* American Underground [https://www.americanunderground.com/](https://www.americanunderground.com/)
 * GrepBeat [https://grepbeat.com/](https://grepbeat.com/)
 * WRAL Techwire Startup Guide [https://startupguide.wraltechwire.com/](https://startupguide.wraltechwire.com/)
 
@@ -30,6 +30,7 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * Vibe Cary [https://www.vibecary.com/](https://www.vibecary.com/)
 
 ## Job Boards and Recruiting
+* American Underground Job Board [https://app.americanunderground.com/job_profiles/active](https://app.americanunderground.com/job_profiles/active)
 
 ## Dev-Friendly Spaces
 
@@ -51,6 +52,8 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 
 * RIoT Meetup [https://www.meetup.com/NC-RIoT-Regional-Internet-of-Things/](https://www.meetup.com/NC-RIoT-Regional-Internet-of-Things/)
 * Triangle Elixir [https://www.meetup.com/Triangle-Elixir/](https://www.meetup.com/Triangle-Elixir/)
+* Triangle JavaScript [https://www.meetup.com/Triangle-JavaScript/](https://www.meetup.com/Triangle-JavaScript/)
 * Triangle Python Users Group [https://www.meetup.com/tripython/](https://www.meetup.com/tripython/)
+
 
 ## Homegrown Open-Source Software
