@@ -17,7 +17,7 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * RIoT [https://ncriot.org/](https://ncriot.org/)
 * Triangle Devs on Slack [http://www.triangledevslack.com/](http://www.triangledevslack.com/)
 
-# Startup Resources
+## Startup Resources
 * American Underground [https://www.americanunderground.com/](https://www.americanunderground.com/)
 * GrepBeat [https://grepbeat.com/](https://grepbeat.com/)
 * WRAL Techwire Startup Guide [https://startupguide.wraltechwire.com/](https://startupguide.wraltechwire.com/)
@@ -54,6 +54,14 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * Triangle Elixir [https://www.meetup.com/Triangle-Elixir/](https://www.meetup.com/Triangle-Elixir/)
 * Triangle JavaScript [https://www.meetup.com/Triangle-JavaScript/](https://www.meetup.com/Triangle-JavaScript/)
 * Triangle Python Users Group [https://www.meetup.com/tripython/](https://www.meetup.com/tripython/)
+* [Triangle node.js](https://www.meetup.com/triangle-nodejs/)
+* OWASP Triangle ([Meetup Group](https://www.meetup.com/owasptriangle/)[OWASP Wiki Entry](https://www.owasp.org/index.php/Triangle))
+* [Defcon 919](https://dc919.org/)
+
+## Conferences
+
+* [Cackalackycon](https://cackalackycon.org/)
+* [InfoSeCon](https://www.triangleinfosecon.com/)
 
 
 ## Homegrown Open-Source Software
