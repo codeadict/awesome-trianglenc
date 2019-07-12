@@ -37,6 +37,9 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * BREW Coffee Bar [http://www.brewcoffeebar.co/](http://www.brewcoffeebar.co/)
 * Crema Coffee Roaster & Bakery [cremacoffeebakery.com](cremacoffeebakery.com)
 * FOUNT Coffee + Kitchen [https://fountcoffee.com/](https://fountcoffee.com/)
+* Morning Times [https://www.morningtimes-raleigh.com](https://www.morningtimes-raleigh.com)
+* New World Cafe [https://newworldcafes.com](https://newworldcafes.com)
+* Jubala Coffee [http://www.jubalacoffee.com]()http://www.jubalacoffee.com)
 
 ## Hackerspaces and Makerspaces
 
@@ -54,14 +57,15 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * Triangle Elixir [https://www.meetup.com/Triangle-Elixir/](https://www.meetup.com/Triangle-Elixir/)
 * Triangle JavaScript [https://www.meetup.com/Triangle-JavaScript/](https://www.meetup.com/Triangle-JavaScript/)
 * Triangle Python Users Group [https://www.meetup.com/tripython/](https://www.meetup.com/tripython/)
-* [Triangle node.js](https://www.meetup.com/triangle-nodejs/)
-* OWASP Triangle ([Meetup Group](https://www.meetup.com/owasptriangle/)[OWASP Wiki Entry](https://www.owasp.org/index.php/Triangle))
-* [Defcon 919](https://dc919.org/)
+* Triangle node.js [https://www.meetup.com/triangle-nodejs/](https://www.meetup.com/triangle-nodejs/)
+* OWASP Triangle ([Meetup Group](https://www.meetup.com/owasptriangle/) [OWASP Wiki Entry](https://www.owasp.org/index.php/Triangle))
+* Defcon 919 [https://dc919.org](https://dc919.org/)
 
 ## Conferences
 
-* [Cackalackycon](https://cackalackycon.org/)
-* [InfoSeCon](https://www.triangleinfosecon.com/)
+* Cackalackycon [https://cackalackycon.org](https://cackalackycon.org/)
+* InfoSeCon [https://www.triangleinfosecon.com](https://www.triangleinfosecon.com/)
+* All Things Open (https://allthingsopen.org)[https://allthingsopen.org]
 
 
 ## Homegrown Open-Source Software
