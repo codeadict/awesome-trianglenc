@@ -59,12 +59,16 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 ## Meetups
 
 * Defcon 919 [https://dc919.org](https://dc919.org/)
+* Devs@RTP Meetup [https://www.meetup.com/Developers-RTP](https://www.meetup.com/Developers-RTP)
+* Modern Web (Triangle) [https://www.meetup.com/trianglemodernweb/](https://www.meetup.com/trianglemodernweb/)
 * OWASP Triangle ( [Meetup Group](https://www.meetup.com/owasptriangle/) [OWASP Wiki Entry](https://www.owasp.org/index.php/Triangle) )
 * RIoT Meetup [https://www.meetup.com/NC-RIoT-Regional-Internet-of-Things/](https://www.meetup.com/NC-RIoT-Regional-Internet-of-Things/)
 * Triangle Elixir [https://www.meetup.com/Triangle-Elixir/](https://www.meetup.com/Triangle-Elixir/)
+* Triangle Golang Meetup [https://www.meetup.com/Triangle-Golang-Meetup/](https://www.meetup.com/Triangle-Golang-Meetup/)
 * Triangle JavaScript [https://www.meetup.com/Triangle-JavaScript/](https://www.meetup.com/Triangle-JavaScript/)
-* Triangle Python Users Group [https://www.meetup.com/tripython/](https://www.meetup.com/tripython/)
 * Triangle node.js [https://www.meetup.com/triangle-nodejs/](https://www.meetup.com/triangle-nodejs/)
+* Triangle Python Users Group [https://www.meetup.com/tripython/](https://www.meetup.com/tripython/)
+* Triangle Rustaceans Meetup [https://www.meetup.com/triangle-rustaceans/](https://www.meetup.com/triangle-rustaceans/)
 
 ## Conferences
 
