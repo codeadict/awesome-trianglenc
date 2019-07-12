@@ -7,7 +7,7 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * [Job Boards/Recruiting](#job-boards-and-recruiting)
 * [Dev-Friendly Spaces](#dev-friendly-spaces)
 * [Hackerspaces and Makerspaces](#hackerspaces-and-makerspaces)
-* [Code Academies](#code-academies)
+* [Code Academies](#code-academies-and-bootcamps)
 * [Dev Shops in the Triangle](#dev-shops)
 * [Meetups](#meetups)
 * [Homegrown Open-Source Software](#homegrown-open-source-software)
@@ -37,35 +37,39 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * BREW Coffee Bar [http://www.brewcoffeebar.co/](http://www.brewcoffeebar.co/)
 * Crema Coffee Roaster & Bakery [cremacoffeebakery.com](cremacoffeebakery.com)
 * FOUNT Coffee + Kitchen [https://fountcoffee.com/](https://fountcoffee.com/)
+* Jubala Coffee [http://www.jubalacoffee.com](http://www.jubalacoffee.com)
 * Morning Times [https://www.morningtimes-raleigh.com](https://www.morningtimes-raleigh.com)
 * New World Cafe [https://newworldcafes.com](https://newworldcafes.com)
-* Jubala Coffee [http://www.jubalacoffee.com](http://www.jubalacoffee.com)
 
 ## Hackerspaces and Makerspaces
 
 * Splat Space (Durham's Hackerspace) [https://splatspace.org/](https://splatspace.org/)
 
-## Code Academies
+## Code Academies and Bootcamps
 
+* Boot Camp At UNC-Chapel Hill [https://bootcamp.unc.edu](https://bootcamp.unc.edu)
+* Momentum Learn [https://www.momentumlearn.com](https://www.momentumlearn.com)
+* Project Shift [https://www.projectshift.io](https://www.projectshift.io)
 * Tech Talent South [https://www.techtalentsouth.com/locations/raleigh](https://www.techtalentsouth.com/locations/raleigh)
 
 ## Dev Shops
 
+* Caktus Group [https://www.caktusgroup.com](https://www.caktusgroup.com)
+
 ## Meetups
 
+* Defcon 919 [https://dc919.org](https://dc919.org/)
+* OWASP Triangle ( [Meetup Group](https://www.meetup.com/owasptriangle/) [OWASP Wiki Entry](https://www.owasp.org/index.php/Triangle) )
 * RIoT Meetup [https://www.meetup.com/NC-RIoT-Regional-Internet-of-Things/](https://www.meetup.com/NC-RIoT-Regional-Internet-of-Things/)
 * Triangle Elixir [https://www.meetup.com/Triangle-Elixir/](https://www.meetup.com/Triangle-Elixir/)
 * Triangle JavaScript [https://www.meetup.com/Triangle-JavaScript/](https://www.meetup.com/Triangle-JavaScript/)
 * Triangle Python Users Group [https://www.meetup.com/tripython/](https://www.meetup.com/tripython/)
 * Triangle node.js [https://www.meetup.com/triangle-nodejs/](https://www.meetup.com/triangle-nodejs/)
-* OWASP Triangle ( [Meetup Group](https://www.meetup.com/owasptriangle/) [OWASP Wiki Entry](https://www.owasp.org/index.php/Triangle) )
-* Defcon 919 [https://dc919.org](https://dc919.org/)
 
 ## Conferences
 
+* All Things Open [https://allthingsopen.org](https://allthingsopen.org)
 * Cackalackycon [https://cackalackycon.org](https://cackalackycon.org/)
 * InfoSeCon [https://www.triangleinfosecon.com](https://www.triangleinfosecon.com/)
-* All Things Open [https://allthingsopen.org](https://allthingsopen.org)
-
 
 ## Homegrown Open-Source Software
