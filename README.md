@@ -64,6 +64,7 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * OWASP Triangle ( [Meetup Group](https://www.meetup.com/owasptriangle/) [OWASP Wiki Entry](https://www.owasp.org/index.php/Triangle) )
 * RIoT Meetup [https://www.meetup.com/NC-RIoT-Regional-Internet-of-Things/](https://www.meetup.com/NC-RIoT-Regional-Internet-of-Things/)
 * Triangle Elixir [https://www.meetup.com/Triangle-Elixir/](https://www.meetup.com/Triangle-Elixir/)
+* Triangle Elm [https://www.meetup.com/Triangle-Elm/](https://www.meetup.com/Triangle-Elm/)
 * Triangle Golang Meetup [https://www.meetup.com/Triangle-Golang-Meetup/](https://www.meetup.com/Triangle-Golang-Meetup/)
 * Triangle JavaScript [https://www.meetup.com/Triangle-JavaScript/](https://www.meetup.com/Triangle-JavaScript/)
 * Triangle node.js [https://www.meetup.com/triangle-nodejs/](https://www.meetup.com/triangle-nodejs/)
