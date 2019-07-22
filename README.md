@@ -24,6 +24,7 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 
 ## Coworking Spaces
 
+* Arise Coworking Space Rolesville [https://arisecoworking.com](https://arisecoworking.com)
 * Cary Cofounders Lab [http://cofounderscapital.com/free-lab/](http://cofounderscapital.com/free-lab/)
 * HQ Raleigh [https://hq.community/](https://hq.community/)
 * The Frontier RTP - [https://www.rtp.org/about-us/the-frontier/](https://www.rtp.org/about-us/the-frontier/)
