@@ -70,6 +70,7 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * Triangle node.js [https://www.meetup.com/triangle-nodejs/](https://www.meetup.com/triangle-nodejs/)
 * Triangle Python Users Group [https://www.meetup.com/tripython/](https://www.meetup.com/tripython/)
 * Triangle Rustaceans Meetup [https://www.meetup.com/triangle-rustaceans/](https://www.meetup.com/triangle-rustaceans/)
+* Triangle Ruby Brigade [https://www.meetup.com/raleighrb/](https://www.meetup.com/raleighrb/)
 
 ## Conferences
 
