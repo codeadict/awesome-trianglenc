@@ -84,6 +84,7 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * Triangle Rustaceans Meetup [https://www.meetup.com/triangle-rustaceans/](https://www.meetup.com/triangle-rustaceans/)
 * Triangle Ruby Brigade [https://www.meetup.com/raleighrb/](https://www.meetup.com/raleighrb/)
 * Triangle SQL Server User Group [https://www.meetup.com/tripass/](https://www.meetup.com/tripass/)
+* TriDroid - NC Triangle Android Meetup [https://www.meetup.com/TriDroid/](https://www.meetup.com/TriDroid/)
 
 ## Conferences
 
