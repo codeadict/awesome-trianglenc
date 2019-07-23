@@ -92,3 +92,5 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * Research Triangle Software Symposium [https://nofluffjuststuff.com/rtp](https://nofluffjuststuff.com/rtp)
 
 ## Homegrown Open-Source Software
+
+* Ansible [https://www.ansible.com](https://www.ansible.com)
