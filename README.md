@@ -69,6 +69,7 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * Raleigh Haskell Meetup [https://www.meetup.com/Raleigh-Haskell-Meetup/](https://www.meetup.com/Raleigh-Haskell-Meetup/)
 * RIoT Meetup [https://www.meetup.com/NC-RIoT-Regional-Internet-of-Things/](https://www.meetup.com/NC-RIoT-Regional-Internet-of-Things/)
 * The Triangle Clojure Users Group [https://www.meetup.com/TriClojure/](https://www.meetup.com/TriClojure/)
+* Triangle Area Makers [https://www.meetup.com/triangleareamakers/](https://www.meetup.com/triangleareamakers/)
 * Triangle Code for America [https://www.meetup.com/Triangle-Code-for-America/](https://www.meetup.com/Triangle-Code-for-America/)
 * Triangle Elixir [https://www.meetup.com/Triangle-Elixir/](https://www.meetup.com/Triangle-Elixir/)
 * Triangle Elm [https://www.meetup.com/Triangle-Elm/](https://www.meetup.com/Triangle-Elm/)
