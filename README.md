@@ -79,6 +79,7 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * Triangle Linux User Group [https://trilug.org](https://trilug.org)
 * Triangle .NET User Group [https://www.meetup.com/TRINUG/](https://www.meetup.com/TRINUG/)
 * Triangle node.js [https://www.meetup.com/triangle-nodejs/](https://www.meetup.com/triangle-nodejs/)
+* Triangle OpenStack Meetup [https://www.meetup.com/Triangle-OpenStack-Meetup/](https://www.meetup.com/Triangle-OpenStack-Meetup/)
 * Triangle Python Users Group [https://www.meetup.com/tripython/](https://www.meetup.com/tripython/)
 * Triangle Rustaceans Meetup [https://www.meetup.com/triangle-rustaceans/](https://www.meetup.com/triangle-rustaceans/)
 * Triangle Ruby Brigade [https://www.meetup.com/raleighrb/](https://www.meetup.com/raleighrb/)
