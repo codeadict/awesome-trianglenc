@@ -89,5 +89,6 @@ Awesome List for the Triangle region in North Carolina. Compiles a list of aweso
 * All Things Open [https://allthingsopen.org](https://allthingsopen.org)
 * Cackalackycon [https://cackalackycon.org](https://cackalackycon.org/)
 * InfoSeCon [https://www.triangleinfosecon.com](https://www.triangleinfosecon.com/)
+* Research Triangle Software Symposium [https://nofluffjuststuff.com/rtp](https://nofluffjuststuff.com/rtp)
 
 ## Homegrown Open-Source Software
